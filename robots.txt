@@ -1,0 +1,10 @@
+# Robots.txt for CloudPage Site
+User-agent: *
+Allow: /
+
+Sitemap: https://{username}.github.io/{repo}/sitemap.xml
+
+# Disallow common patterns
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/

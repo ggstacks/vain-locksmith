@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vain Locksmith - Auto Locksmith News</title>
+    <link>https://{username}.github.io/{repo}</link>
+    <description>Latest auto locksmith news and tips from Vain Locksmith in San Diego, California.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Apr 2026 19:48:22 GMT</lastBuildDate>
+    <atom:link href="https://{username}.github.io/{repo}/feed.xml" rel="self" type="application/rss+xml"/>
+    <managingEditor>info@vainlocksmith.com (Vain Locksmith)</managingEditor>
+    <webMaster>info@vainlocksmith.com (Vain Locksmith)</webMaster>
+    
+  </channel>
+</rss>
